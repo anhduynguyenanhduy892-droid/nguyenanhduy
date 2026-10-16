@@ -420,4 +420,4 @@ function gui(){const nd=on.value.trim();if(!nd)return;them(nd,'toi');on.value=''
 function goi(t){on.value=t;gui()}
 </script>
 </body>
-</html>
+</html
